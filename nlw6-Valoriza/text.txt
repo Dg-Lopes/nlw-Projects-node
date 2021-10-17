@@ -1,0 +1,35 @@
+Dialogue:
+
+Hotel: Good morning Sir, we are the hotel "Dragons Hotel", we are famous hotel with
+delicious and sophisticated, foods most famous in the world.
+
+Sir.Juzelindo: Hello, good morning, l would like to make a resevation, l need a big
+room for me and family with your foods services.
+
+Hotel: Okay Sir, here, take the keys.
+
+Sir.Juzelindo: Thanks, how can l go to the room.
+
+Hotel: First go straight, after turn the second left and between two red doors there is a 
+blue door, that it's yours.
+
+Sir.Juzelindo: Thank you, have a nice day
+
+Hotel: You're welcome, bye.
+
+
+
+1
+a) new bethroom with swimpool 
+b)
+
+2
+a) vacations rooms for two people
+b) breakfast its included
+3
+a) the tv its not working
+b) that they don't have cabo chanels
+
+4
+a) there is a monster
+b) send some person to help her
